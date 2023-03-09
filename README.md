@@ -8,5 +8,5 @@
 
 - :alembic:	I’m also creating nice public repos for knowledge sharing in data-related topics, but in a minimalist way (I hate tutorials where you need to configure lots of things..Simple > Complex > Complicated) 
 
-P.S > :sob: The repos may take a while since I'm doing it in my spare time, but feel free to help :nerd_face: or send coffee :coffee:
+P.S > :sob: The repos may take a while since I'm doing it in my spare time, but feel free send suggestions :nerd_face: (or coffee :coffee:). If you'd like to contribute give a shout!
 
