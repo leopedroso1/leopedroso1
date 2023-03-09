@@ -6,5 +6,5 @@
 - 💬 Ask me about Big Data, Spark/Databricks, Machine Learning or any Data Engineering topic :tea: I'm really glad to help! 
 - 📫 How to reach me: A Linkedin message is more than welcome! 
 
-- :alembic:	I’m also creating nice public repos share knowledge about data related topics in a minimalist way (I hate tutorials where you need to configure lots of things...). P.S > :sob: This project may take a while since I'm doing it in my spare time, but feel free to help :nerd_face:
+- :alembic:	I’m also creating nice public repos for knowledge sharing in data-related topics, but in a minimalist way (I hate tutorials where you need to configure lots of things..Simple > Complex > Complicated) P.S > :sob: This project may take a while since I'm doing it in my spare time, but feel free to help :nerd_face:
 
