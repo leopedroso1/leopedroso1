@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working/architecting/ a new data platform focused on data mesh architecture.
 - 🌱 I’m currently learning platform building. Any DevOps and Terraform hints are welcome!
-- :compass: I'm currently living in the United Kingdom :gb::teapot:
+- :compass: I'm currently living in the United Kingdom :guard::teapot:
 - 💬 Ask me about Big Data, Spark/Databricks, Machine Learning or any Data Engineering topic :tea: I'm really glad to help! 
 - 📫 How to reach me: A Linkedin message is more than welcome! 
 
