@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Leo
 
-- 🔭 I’m currently optimizing the performance of databricks data pipelines with lots of hierarchical data.
-- 🌱 I’m currently learning about GraphFrames/GraphX. Any DevOps and Terraform hints are also welcome!
+- 🔭 I’m currently optimizing the performance of databricks data pipelines with lots of hierarchical data / graph algorithms.
+- 🌱 I’m currently learning about GraphFrames/Pregel Algorithms scalability in Spark. Any DevOps and Terraform hints are also welcome!
 - :compass: I'm currently living in the United Kingdom :guard: :teapot:
 - 💬 Ask me about Big Data, Spark/Databricks, Machine Learning or any Data Engineering topic :tea: I'm really glad to help! 
 - 📫 How to reach me: A Linkedin message is more than welcome! 
